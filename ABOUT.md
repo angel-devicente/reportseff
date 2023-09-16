@@ -1,4 +1,4 @@
-# Monitoring slurm efficiency with reportseff.
+# Monitoring slurm efficiency with reportseff
 
 > Troy Comi
 
